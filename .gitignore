@@ -2,3 +2,4 @@
 workdir/*
 !workdir/.gitkeep
 CONTAINER_NAME/
+*.simg
