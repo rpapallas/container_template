@@ -1,0 +1,4 @@
+.DS_Store
+workdir/*
+!workdir/.gitkeep
+CONTAINER_NAME/
