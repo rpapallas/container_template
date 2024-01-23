@@ -1,5 +1,12 @@
+*.simg
+mj_mpc/
+
 .DS_Store
 workdir/*
 !workdir/.gitkeep
-CONTAINER_NAME/
-*.simg
+
+!home/
+home/*
+!home/.bashrc
+
+
